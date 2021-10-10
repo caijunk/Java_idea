@@ -3,7 +3,7 @@ package 数据结构.单向链表.案例;
 import java.util.Stack;
 
 public class Test {
-    //123
+    //123HJHUJ
     public static void main(String[] args) {
 
         Node node1 = new Node(1, "a");
