@@ -3,7 +3,9 @@ package 数据结构.单向链表.案例;
 import java.util.Stack;
 
 public class Test {
+    //123
     public static void main(String[] args) {
+
         Node node1 = new Node(1, "a");
         Node node2 = new Node(2, "b");
         Node node3 = new Node(3, "c");
