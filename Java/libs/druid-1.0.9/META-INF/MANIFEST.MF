@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Alibaba Group
+Implementation-Title: druid
+Implementation-Version: 1.0.9
+Implementation-Vendor-Id: com.alibaba
+Built-By: yako
+Build-Jdk: 1.7.0_60-ea
+Created-By: Apache Maven
+Implementation-Build: 2014-09-05 16:20:18
+Archiver-Version: Plexus Archiver
+
