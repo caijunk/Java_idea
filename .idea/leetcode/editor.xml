@@ -66,6 +66,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/[20]有效的括号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/doc/content/[20]有效的括号.md" />
+              <option name="path" value="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/[20]有效的括号.java" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/[260]只出现一次的数字 III.java">
           <value>
             <LeetcodeEditor>
@@ -126,6 +135,15 @@
               <option name="contentPath" value="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/doc/content/[393]UTF-8 编码验证.md" />
               <option name="path" value="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/[393]UTF-8 编码验证.java" />
               <option name="questionId" value="393" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/[496]下一个更大元素 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/doc/content/[496]下一个更大元素 I.md" />
+              <option name="path" value="$USER_HOME$/AppData/Local/leetcode/leetcode/editor/cn/[496]下一个更大元素 I.java" />
+              <option name="questionId" value="496" />
             </LeetcodeEditor>
           </value>
         </entry>
